@@ -1,6 +1,6 @@
 /*!
  * vue2-editor v2.10.2 
- * (c) 2019 David Royer
+ * (c) 2020 David Royer
  * Released under the MIT License.
  */
 (function (global, factory) {
